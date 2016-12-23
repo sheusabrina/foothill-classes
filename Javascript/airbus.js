@@ -30,4 +30,4 @@ $("#btnSubmit").click (function() {
 
 //Display copyright
 var copyright = document.getElementsByTagName ("h2");
-copyright [1].innerHTML="© 2016 Sabrina Sheu All Rights Reserved";
+copyright [1].innerHTML="Â© 2016 Sabrina Sheu All Rights Reserved";
