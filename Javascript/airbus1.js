@@ -8,4 +8,4 @@ var passes = 20;
 var available = maximum - tickets - passes;
 console.log("Available seats: " + available)
 
-console.log("© " + year + " " + owner + " All Rights Reserved")
+console.log("Â© " + year + " " + owner + " All Rights Reserved")
